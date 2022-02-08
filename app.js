@@ -4,4 +4,4 @@ createApp({
   render() {
     return h('div', 'vite')
   }
-}).$mount('#app')
+}).mount('#app')

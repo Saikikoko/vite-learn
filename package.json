@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "koa": "^2.13.4"
+    "koa": "^2.13.4",
+    "vue": "^3.2.30"
   },
   "devDependencies": {},
   "scripts": {
